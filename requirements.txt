@@ -11,3 +11,4 @@ wandb
 boto3
 lion-pytorch
 fairscale
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
